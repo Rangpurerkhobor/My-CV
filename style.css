@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+
+
+
+div{
+    background-color: #E4F9F5;
+}
+.second-container{
+    background-color:aquamarine;
+    height: 200px;
+    width: 200px;
+    margin: 10px 20px;
+    padding: 20px 40px 20px 40px;
+}
+.third-container{
+    background-color:blueviolet;
+    height: 200px;
+    width: 200px;
+    padding: 20px 40px;
+    margin: 10px 20px;
+}
